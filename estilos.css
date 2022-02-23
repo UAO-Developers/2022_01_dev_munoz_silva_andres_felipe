@@ -1,0 +1,188 @@
+*{
+box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+header{
+    padding: 2px;
+    background-color: orange;
+    text-align: center;
+    color: white;
+   
+
+}
+.icon{
+    position: relative;
+    top: ;
+    bottom: 660px ;
+    right: ;
+    left: 1490px ;
+}  
+}
+
+
+
+
+nav {
+    display: flex;
+    flex-direction: row;
+
+    bottom: 170px ;
+}
+nav a {
+    color: black;
+    padding: 7px 10px;
+    text-decoration: none;
+    bottom: 170px ;
+}
+.centro{
+    
+    position: relative;
+    top: ;
+    bottom: 100px ;
+    right: ;
+    left: 580px ;
+}
+.estrella{
+    position: relative;
+    top: ;
+    bottom: 170px ;
+    right: ;
+    left: 10px ;
+}
+
+.menu {
+    position: relative;
+    top: ;
+    bottom: 170px ;
+    right: ;
+    left:  ;
+    background:gainsboro;
+    padding: 23px 5px;
+}
+.iconos {
+    position: relative;
+    top: ;
+    bottom: 40px ;
+    right: ;
+    left: 600px ;
+}
+
+.basket{
+    width: 410px;
+    margin: 20px;
+    position: relative;
+    top: ; ;
+    bottom: 690px ;
+    right: ;
+    left: 1090px ;
+
+    text-align: center;
+}
+
+.platos{
+    width: 410px;
+    margin: 20px;
+    position: relative;
+    top: ; ;
+    bottom: 500px ;
+    right: ;
+    left: 1090px ;  
+    text-align: center; 
+}
+
+.dishes{
+    position: relative;
+    top: ;
+    bottom: 370px ;
+    right: ;
+    left:  ;
+    font-size: 0.30cm;
+    padding: 23px 5px;
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.card{
+    position: relative;
+    top: ;
+    bottom:370px ;
+    right: ;
+    left:  ;  
+}
+.text1{
+    font-size: 0.50cm;
+}
+
+.info1{
+    position: relative;
+    top: ;
+    bottom: 390px ;
+    right: ;
+    left:  ; 
+    color: gray; 
+}
+.pricea{
+    position: relative;
+    top: ;
+    bottom: 370px ;
+    right: ;
+    left: ;
+    color: orangered;
+    font-size: 0.50cm;
+}
+
+.card2{
+    position: relative;
+    top: ;
+    bottom:350px ;
+    right: ;
+    left:  ;  
+}
+
+.subtext1{
+    position: relative;
+    top: ;
+    bottom:32px ;
+    right: ;
+    left: 311px ;  
+    color: blue;
+    font-size: 0.30cm;
+}
+
+.text2{
+    font-size: 0.50cm;
+}
+.subtext2{
+    position: relative;
+    top: ;
+    bottom:32px ;
+    right: ;
+    left: 151px ;  
+    color: blue;
+    font-size: 0.30cm;
+}
+
+.info2{
+    position: relative;
+    top: ;
+    bottom: 30px ;
+    right: ;
+    left:  ; 
+    color: gray; 
+}
+
+.priceb{
+    position: relative;
+    top: ;
+    bottom: 20px ;
+    right: ;
+    left: ;
+    color: orangered;
+    font-size: 0.50cm;
+}
